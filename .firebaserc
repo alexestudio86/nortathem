@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "usuarios-b1a68"
+  },
+  "targets": {
+    "usuarios-b1a68": {
+      "hosting": {
+        "notathem": [
+          "usuarios-b1a68.web.app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
