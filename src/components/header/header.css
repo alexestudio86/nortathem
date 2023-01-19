@@ -1,0 +1,11 @@
+.bg-header {
+    background-image: url('../../assets/header/life.jpg');
+    background-color: #ccc;
+    height: 68vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black-transparent-medium {
+    background: rgba(0,0,0,0.5);
+}
