@@ -6,7 +6,7 @@ export function Navbar ( ){
     const location = useLocation();
     return (
         <>
-            { location.pathname === '/' ? <NavFull /> : <NavCompact /> }
+            <NavFull />
         </>
     )
 }
