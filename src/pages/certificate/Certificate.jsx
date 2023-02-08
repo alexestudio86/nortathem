@@ -45,24 +45,13 @@ export function Certificate ( ) {
                 </Accordion.Body>
             </Accordion.Item>
             </Accordion>
-            <div className="d-flex justify-content-between">
+            <div className="d-flex justify-content-between py-2">
                 <Link className="btn btn-primary" to={'./tipos-de-certificacion'} >Tipos de certificación</Link>
             </div>
-            <Tabs
-                defaultActiveKey="home"
-                id="uncontrolled-tab-example"
-                className="mb-3"
-            >
-                <Tab eventKey="home" as={Link} to={`./home`} title="Home">
-                    <p>Home</p>
-                </Tab>
-                <Tab eventKey="profile" as={Link} to={`./profile`} title="Profile">
-                    <p>Profile</p>
-                </Tab>
-                <Tab eventKey="contact" as={Link} to={`./contact`} title="Contact">
-                    <p>Contact</p>
-                </Tab>
-            </Tabs>
+            <div className="d-flex justify-content-between py-3">
+                <Link className="btn btn-primary" to={'./instructor'} >Instructor</Link>
+                <Link className="btn btn-primary" to={'./especialidad'} >Especialidad</Link>
+            </div>
         </>
     )
 }
