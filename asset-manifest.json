@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2c2519e2.css",
-    "main.js": "/static/js/main.06ea8fe6.js",
+    "main.js": "/static/js/main.a83aea2f.js",
     "static/media/logo-nortathem.png": "/static/media/logo-nortathem.3e232129e35779c85368.png",
     "static/media/travel.jpg": "/static/media/travel.3d984a28d4bfaff8f572.jpg",
     "static/media/testimonials.jpg": "/static/media/testimonials.8953a1ae2d19fcca39d9.jpg",
@@ -10,10 +10,10 @@
     "static/media/life.jpg": "/static/media/life.7b5a7a7341aeb6132336.jpg",
     "index.html": "/index.html",
     "main.2c2519e2.css.map": "/static/css/main.2c2519e2.css.map",
-    "main.06ea8fe6.js.map": "/static/js/main.06ea8fe6.js.map"
+    "main.a83aea2f.js.map": "/static/js/main.a83aea2f.js.map"
   },
   "entrypoints": [
     "static/css/main.2c2519e2.css",
-    "static/js/main.06ea8fe6.js"
+    "static/js/main.a83aea2f.js"
   ]
 }
