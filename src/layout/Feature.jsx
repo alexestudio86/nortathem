@@ -1,5 +1,5 @@
-import { Features } from '../components/feature/Features';
-import { features } from '../components/feature/features';
+import { Features } from '../components/feature/Features.jsx';
+import { features } from '../components/feature/features.js';
 
 
 export function Feature ( ){

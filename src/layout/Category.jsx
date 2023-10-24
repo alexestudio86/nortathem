@@ -1,5 +1,5 @@
-import { Categories } from '../components/category/Categories';
-import { categories } from '../components/category/categories'
+import { Categories } from '../components/category/Categories.jsx';
+import { categories } from '../components/category/categories.js';
 
 export function Category () {
     return (

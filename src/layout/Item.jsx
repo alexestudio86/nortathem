@@ -1,5 +1,6 @@
-import { Items } from "../components/item/Items";
-import { items } from "../components/item/items";
+import { Items } from "../components/item/Items.jsx";
+import { items } from "../components/item/items.js";
+
 
 export function Item ( ){
     return (
