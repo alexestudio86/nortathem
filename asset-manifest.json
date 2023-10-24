@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c2519e2.css",
+    "main.js": "/static/js/main.06ea8fe6.js",
+    "static/media/logo-nortathem.png": "/static/media/logo-nortathem.3e232129e35779c85368.png",
+    "static/media/travel.jpg": "/static/media/travel.3d984a28d4bfaff8f572.jpg",
+    "static/media/testimonials.jpg": "/static/media/testimonials.8953a1ae2d19fcca39d9.jpg",
+    "static/media/information.jpg": "/static/media/information.32caf617b53c27dac0d5.jpg",
+    "static/media/benefits.jpg": "/static/media/benefits.eaf1f35f51c37b50e29d.jpg",
+    "static/media/life.jpg": "/static/media/life.7b5a7a7341aeb6132336.jpg",
+    "index.html": "/index.html",
+    "main.2c2519e2.css.map": "/static/css/main.2c2519e2.css.map",
+    "main.06ea8fe6.js.map": "/static/js/main.06ea8fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c2519e2.css",
+    "static/js/main.06ea8fe6.js"
+  ]
+}
