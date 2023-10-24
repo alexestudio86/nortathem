@@ -10,7 +10,7 @@ export function NavCompact(){
         <Navbar bg="white" sticky="top" >
             <Container>
                 <NavLink className='btn' to='/'>
-                    <i className='fas fa-home fa-2x text-white'></i>
+                    <i className='fas fa-home fa-2x'></i>
                 </NavLink>
                 <NavLink className='btn btn-dark d-block d-sm-none' to='/checkout'>
                     <i className='fas fa-shopping-cart fa-lg me-1'></i>
@@ -37,17 +37,17 @@ export function NavFull( ){
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
-                        <NavLink className='nav-link text-uppercase' to={"nosotros"}>Nosotros</NavLink>
-                        <NavLink className='nav-link text-uppercase' to={"certificate"}>Certifícate</NavLink>
-                        <NavDropdown className='text-uppercase' title="Nortathem" id="basic-nav-dropdown">
+                        <NavLink className='nav-link text-uppercase w3-text-orange' to={"nosotros"}>Nosotros</NavLink>
+                        <NavLink className='nav-link text-uppercase w3-text-orange' to={"certificate"}>Certifícate</NavLink>
+                        <NavDropdown className='text-uppercase w3-text-orange' title="Nortathem" id="basic-nav-dropdown">
                             <NavLink className="dropdown-item" to={"nortathem/evaluadores"}>Evaluadores</NavLink>
                             <NavLink className="dropdown-item" to={"nortathem/franquicias"}>Franquicias</NavLink>
                             <NavLink className="dropdown-item" to={"nortathem/eventos"}>Eventos</NavLink>
                         </NavDropdown>
-                        <NavLink className='nav-link text-uppercase' to={"contacto"}>Contacto</NavLink>
+                        <NavLink className='nav-link text-uppercase w3-text-orange' to={"contacto"}>Contacto</NavLink>
                     </Nav>
                     <Nav>
-                        <NavLink className='nav-link' to={"login"}>
+                        <NavLink className='nav-link w3-text-orange' to={"login"}>
                             <i className="fa-solid fa-user"></i>
                         </NavLink>
                     </Nav>

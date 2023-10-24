@@ -3,7 +3,7 @@ export function FooterCompact ( ){
         <div className='bg-dark' id='footerFull'>
             <div className='container py-2'>
                 <div className='row'>
-                    <div className='col-md-12 text-center'>By <a href='#' className='link-primary'>Petitpua Buró Creativo</a></div>
+                    <div className='col-md-12 text-center'>By Alex Estudio 86</div>
                 </div>
             </div>
         </div>

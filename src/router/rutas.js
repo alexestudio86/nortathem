@@ -89,4 +89,6 @@ export const rutas = createBrowserRouter([
             }
         ]
     }
-])
+], {
+    basename: "/nortathem"
+})

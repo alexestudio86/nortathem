@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-import { NavFull, NavCompact } from "../components/navbar/Navbars";
+import { NavFull } from "../components/navbar/Navbars";
 
 
 export function Navbar ( ){
